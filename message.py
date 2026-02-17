@@ -1,0 +1,1 @@
+print("message of the message file")
