@@ -12,12 +12,14 @@ if age >= 60:
     ex_limit = 300000
 else:    
     ex_limit = 250000
-    if income <= ex_limit:   
-        tax = 0
-    elif income <= 500000:   
-        tax = (income - ex_limit) * (5/100)
-    elif income <= 1000000:   
-        tax = (income - 500000) * (2/100) + (500000 - ex_limit) * (5/100)
-    else:    
-        tax = (income - 1000000) * (3/100) + (1000000 - 500000) * 0.20 + (500000 - ex_limit) * 0.05
+
+if income <= ex_limit:   
+    tax = 0
+elif income <= 500000:   
+    tax = (income - ex_limit) * (5/100)
+elif income <= 1000000:   
+    tax = (income - 500000) * (20/100) + (500000 - ex_limit) * (5/100)
+else:    
+    tax = (income - 1000000) * (30/100) + (1000000 - 500000) * 0.20 + (500000 - ex_limit) * 0.05
+
 print("Your income tax is: ₹", tax)
