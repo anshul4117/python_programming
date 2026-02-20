@@ -1,0 +1,58 @@
+# *
+# **
+# ***
+# ****
+# *****
+# for i in range(1, 6):
+#     print(" " * i)
+
+
+#      *
+#     **
+#    ***
+#   ****
+#  *****
+# ******
+# row = int(input("Enter rows : "))
+
+# for i in range(row,0,-1):
+#     print(" " * i, end="")
+#     print("*" * (row - i + 1 ))
+
+#      *
+#     ***
+#    *****
+#   *******
+#  *********
+
+# row = int(input("Enter rows : "))
+# for i in range(row,0,-1):
+#     print(" " * i, end="")
+#     print("*" * (row - i + 1 ), end="")
+#     print("*" * (row - i ))
+
+
+#      *
+#     ***
+#    *****
+#   *******
+#  *********
+#   *******
+#    *****
+#     ***
+#      *
+row = int(input("Enter rows : "))
+for i in range(row,0,-1):
+    print(" " * i, end="")
+    print("*" * (row - i + 1 ), end="")
+    print("*" * (row - i ))
+for i in range(2, row + 1):
+    print(" " * i, end="")
+    print("*" * (row - i + 1 ), end="")
+    print("*" * (row - i ))
+
+
+
+
+
+   
