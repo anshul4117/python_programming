@@ -31,3 +31,8 @@ while attempts < 3:
         print("Attempts left:", 3 - attempts)
     else:
         print("Account locked. Too many failed attempts.")
+
+# output
+# Enter username: anshul
+# Enter password: anshul123
+# Login successful!

@@ -60,3 +60,16 @@ print("Total Increment Percentage:", increment_percentage)
 print("Current Salary:", current_salary)
 print("Increment Amount:", increment_amount)
 print("New Salary:", new_salary)
+
+# output
+# Enter performance rating (1-5): 4
+# Enter years of experience: 6
+# Enter attendance percentage (0-100): 90
+# Enter current salary: 50000
+# Performance Rating: 4
+# Years of Experience: 6
+# Attendance Percentage: 90.0
+# Total Increment Percentage: 18
+# Current Salary: 50000.0
+# Increment Amount: 9000.0
+# New Salary: 59000.0   

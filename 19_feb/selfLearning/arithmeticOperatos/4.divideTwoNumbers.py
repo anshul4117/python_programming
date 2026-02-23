@@ -6,3 +6,8 @@ if num2 != 0:
     print("The result of division is:", result)
 else:    
     print("num2 cannot be zero")
+
+# output
+# Enter the first number: 10
+# Enter the second number: 2
+# The result of division is: 5.0

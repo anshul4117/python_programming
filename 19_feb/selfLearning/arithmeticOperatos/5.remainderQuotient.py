@@ -6,3 +6,9 @@ if(num2 != 0):
     remainder = num1 % num2
     print("Quotient: ", quotient)
     print("Remainder: ", remainder)
+
+# output
+# Enter the first number: 10
+# Enter the second number: 3
+# Quotient:  3
+# Remainder:  1 

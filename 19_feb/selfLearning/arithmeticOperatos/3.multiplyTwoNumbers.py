@@ -6,3 +6,8 @@ if(num1 == 0 or num2 == 0):
 else:    
     product = num1 * num2
     print("The product of two numbers is: ", product)
+
+# output
+# Enter first number: 5
+# Enter second number: 10
+# The product of two numbers is:  50.0

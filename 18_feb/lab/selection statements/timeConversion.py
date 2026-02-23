@@ -17,3 +17,7 @@ if(seconds >= 60):
     minutes = seconds // 60 #storing quotient as minutes
     seconds = seconds % 60 #storing reminder as seconds
 
+# output
+# print("Time in hours : ", hours)
+# print("Time in minutes : ", minutes)
+# print("Time in seconds : ", seconds)

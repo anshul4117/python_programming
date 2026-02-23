@@ -19,3 +19,8 @@ if is_senior == "yes":
     bill = bill * 0.9
 
 print(f"Total Bill: ₹ ", bill)
+
+# output
+# Enter units consumed: 350
+# Are you a senior citizen? (yes/no): yes
+# Total Bill: ₹  3150.0

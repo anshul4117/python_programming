@@ -11,3 +11,7 @@ else:
     parameter = 2 * pie * radius
     print("area of circle",area)
     print("area of parameter",parameter)
+# output
+# Enter the radius (in centimeter) :  5
+# area of circle 78.5
+# area of parameter 31.400000000000002      

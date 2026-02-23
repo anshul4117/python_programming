@@ -22,3 +22,9 @@ elif credit_score <= 750:
         print("Loan Approved")
 else:
     print("Loan Approved")
+
+# output
+# Enter credit score: 650
+# Enter monthly income: 25000
+# Enter existing loan amount: 600000
+# Loan Rejected: Income too low and existing loans too high

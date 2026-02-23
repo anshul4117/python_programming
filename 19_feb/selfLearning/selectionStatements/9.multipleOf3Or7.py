@@ -8,3 +8,7 @@ elif number % 7 == 0:
     print(number," is a multiple of 7.")
 else:    
     print(number," is not a multiple of 3 or 7.")
+
+# output
+# Enter a number: 21
+# 21  is a multiple of both 3 and 7.

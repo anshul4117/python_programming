@@ -7,3 +7,6 @@ else:
     area = pi * radius ** 2
     print("The area of the circle is:", area)
 
+# output
+# Enter the radius of the circle: 5
+# The area of the circle is: 78.5

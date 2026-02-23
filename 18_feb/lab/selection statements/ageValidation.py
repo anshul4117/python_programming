@@ -15,3 +15,7 @@ if(age>0):
     print("Valid age")
 else:
     print("Invalid age")
+
+#output
+# Enter you age: 25
+# Valid age  

@@ -29,3 +29,12 @@ if eligible:
 else:
     if grade_12_percentage < 75 or studied_math != "yes" or entrance_score < 80:
         print("You are not eligible. Reasons:")
+
+
+# output
+# Enter your 12th grade percentage: 70
+# Did you study Mathematics? (yes/no): no   
+# Enter your entrance exam score: 85
+# • 12th grade percentage is below 75%
+# • Mathematics was not studied
+# You are not eligible. Reasons:

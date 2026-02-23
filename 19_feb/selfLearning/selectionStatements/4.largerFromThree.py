@@ -11,3 +11,8 @@ else:
         print(num2, "is the largest number.")
     else:    
         print("Both numbers are equal.")       
+
+# output
+# Enter first number: 10
+# Enter second number: 20
+# 20 is the largest number.

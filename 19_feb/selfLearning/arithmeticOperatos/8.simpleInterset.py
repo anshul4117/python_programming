@@ -7,3 +7,9 @@ if(principal <= 0.0 or rate <= 0.0 or time <= 0.0):
 else:
     simple_interest = (principal * rate * time) / 100
     print("The simple interest is:", simple_interest)
+
+# output
+# Enter the principal amount: 1000
+# Enter the rate of interest: 5
+# Enter the time in years: 2
+# The simple interest is: 100.0

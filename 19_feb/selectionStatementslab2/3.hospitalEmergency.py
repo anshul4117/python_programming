@@ -44,3 +44,11 @@ else:
                 priority = "Normal"
 
 print("Patient Priority:", priority)
+
+# output
+# Enter patient age: 70
+# Enter heart rate: 80
+# Is there severe injury? (yes/no): no
+# Enter condition (normal/moderate/critical): moderate
+# Patient Priority: Moderate (Upgraded)
+

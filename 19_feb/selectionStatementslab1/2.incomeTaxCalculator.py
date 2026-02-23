@@ -23,3 +23,8 @@ else:
     tax = (income - 1000000) * (30/100) + (1000000 - 500000) * 0.20 + (500000 - ex_limit) * 0.05
 
 print("Your income tax is: ₹", tax)
+
+# output
+# Enter your age: 65
+# Enter your annual income: 600000
+# Your income tax is: ₹ 10000.0

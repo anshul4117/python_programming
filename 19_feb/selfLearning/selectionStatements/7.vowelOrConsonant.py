@@ -4,3 +4,8 @@ if char in 'aeiouAEIOU':
     print(char, "is a vowel.")
 else:
     print(char, "is a consonant.")
+
+# output
+# Enter a character: a
+# a is a vowel.
+

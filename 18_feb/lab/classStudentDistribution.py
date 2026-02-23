@@ -6,3 +6,6 @@ remainStudents = students %  eachClassHaveStudentes
 
 print("total class : ",totalClass)
 print("remains students : ",remainStudents)
+# output
+# total class :  4
+# remains students :  5

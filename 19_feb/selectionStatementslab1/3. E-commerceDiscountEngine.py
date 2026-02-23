@@ -25,3 +25,9 @@ discount = discount_percentage * cart_value
 final_amount = cart_value - discount
 
 print("Your final payable amount is: ₹", final_amount)
+
+# output
+# Enter the cart value: 1000
+# Enter your membership type (Silver/Gold/Platinum): Gold
+# Is it a festival season? (yes/no): yes
+# Your final payable amount is: ₹ 900.0

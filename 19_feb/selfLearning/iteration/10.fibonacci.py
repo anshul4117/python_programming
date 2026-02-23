@@ -15,3 +15,18 @@ else:
         print(a)
         a, b = b, a + b
         count += 1
+
+
+# output
+# Enter the number of terms: 10
+# Fibonacci sequence up to 10 terms:
+# 1
+# 0
+# 1
+# 2
+# 3
+# 5
+# 8
+# 13
+# 21
+# 34    

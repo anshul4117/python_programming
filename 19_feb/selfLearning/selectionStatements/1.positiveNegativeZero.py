@@ -8,3 +8,7 @@ else:
         print("Negative")
     else:
         print("Zero")
+
+# output
+# Enter a Number : -5
+# Negative

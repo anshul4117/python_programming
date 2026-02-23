@@ -8,3 +8,7 @@ if(number > 0):
         print("Odd NUmber")
 else:
     print("Number should be positive and greater then Zero")
+
+# output
+# Enter a Number : 10
+# Even Number

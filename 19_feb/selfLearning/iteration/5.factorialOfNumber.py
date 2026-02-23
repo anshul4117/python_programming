@@ -6,3 +6,6 @@ for i in range(1, n + 1):
     factorial *= i
 
 print(f"Factorial of {n} is {factorial}")
+# output
+# Enter a number: 5
+# Factorial of 5 is 120

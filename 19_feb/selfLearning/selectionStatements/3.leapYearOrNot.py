@@ -12,3 +12,6 @@ if year % 4 == 0:
 else:
     print(year, "is not a leap year.")  
 
+# output
+# Enter a year: 2020
+# 2020 is a leap year.

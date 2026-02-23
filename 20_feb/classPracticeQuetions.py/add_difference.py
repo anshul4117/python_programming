@@ -18,3 +18,9 @@ sum_res = add_numbers(num1,num2)
 sub_res = subtract_numbers(num1,num2)
 print("Sum:",sum_res)
 print("Difference:",sub_res)
+
+# output
+# Enter first number: 10
+# Enter second number: 5
+# Sum: 15
+# Difference: 5

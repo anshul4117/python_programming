@@ -11,3 +11,6 @@ Sum = 0
 for n in range(1,21):  
     Sum += n
 print("sum of first 20 natural numbers : ",Sum)
+
+# output
+# sum of first 20 natural numbers :  210

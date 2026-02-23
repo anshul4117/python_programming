@@ -19,3 +19,9 @@ else:
             exit()
         else:
             print("No profit No loss")
+
+
+# output
+# Enter cost price (in RS) : 100        
+# Enter sell price : (in RS) 150
+# profit 50.0   

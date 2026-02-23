@@ -10,3 +10,8 @@ if num == rev:
     print(num, "is a palindrome")
 else:    
     print(num, "is not a palindrome")
+
+
+# output
+# Enter a number: 12321
+# 12321 is a palindrome

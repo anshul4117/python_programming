@@ -7,3 +7,7 @@ else:
         print("You are eligible to vote.")
     else:
         print("You are not eligible to vote.")
+
+# output
+# Enter your age: 20
+# You are eligible to vote. 

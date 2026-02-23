@@ -24,3 +24,9 @@ else:
             atm_cash = atm_cash - withdraw_amount
             print("Withdrawal successful!")
             print("Remaining balance:", balance)
+
+# output
+# Enter your account balance: 60000
+# Enter withdrawal amount: 55000
+# Enter ATM available cash: 100000
+# Withdrawal failed: Exceeds daily limit of 50000.

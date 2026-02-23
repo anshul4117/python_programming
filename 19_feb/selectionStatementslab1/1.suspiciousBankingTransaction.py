@@ -26,3 +26,10 @@ if(amount > 200000):
         print("account age should be less then 6 months")
 else: 
     print("amount should be greater than ₹2,00,000")
+
+
+# output
+# Enter the transaction amount: 250000
+# Enter the account age in months: 3
+# Is the transaction international? (yes/no): yes
+# Transaction flagged for manual verification.  

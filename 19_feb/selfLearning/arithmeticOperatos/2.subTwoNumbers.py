@@ -6,3 +6,8 @@ if(num1 < 0 or num2 < 0):
 else:
     result = num1 - num2
     print("The difference of num1 and num2 is: ", result)
+
+# # output
+# Enter first number: 20
+# Enter second number: 10
+# The difference of num1 and num2 is:  10.0 

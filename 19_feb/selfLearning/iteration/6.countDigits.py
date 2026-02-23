@@ -6,3 +6,6 @@ while n > 0:
     count += 1
 print("Number of digits: ",count)
 
+# output
+# Enter a number: 12345
+# Number of digits:  5

@@ -19,3 +19,9 @@ else:
                 print("Not triangle")
 
 # angle_total = right_angle + left_angle + bottom_angle
+
+# output
+# Enter the right angle: 90
+# Enter the left angle: 45
+# Enter the bottom angle: 45
+# This is triangle

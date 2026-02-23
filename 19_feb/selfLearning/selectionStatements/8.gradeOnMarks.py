@@ -13,3 +13,7 @@ elif marks >= 50:
     print("Grade: C")
 else:    
     print("Grade: Fail")
+
+# output
+# Enter your marks: 85
+# Grade: B
