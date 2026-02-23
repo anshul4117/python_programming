@@ -62,5 +62,3 @@ row = int(input("Enter rows : "))
 for i in range(row,0,-1):
     print(" " * (row - i), end="")
     print("*" * (2 * i - 1))  
-
-
