@@ -7,3 +7,9 @@
 # Normalized Array:
 # [0.56 0.12 0.95 0.00 0.67 ...]
 # (Values will vary.)
+
+import numpy as np
+
+arr = np.random.rand(10)
+print("Original Array :", arr)
+print("Normalized Array :", (arr - arr.min()) / (arr.max() - arr.min()))   
