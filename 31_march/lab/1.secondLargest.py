@@ -1,5 +1,5 @@
 
-numbers = [45, 23, 89, 12, 67, 34, 89, 56]
+numbers = int(input("Enter a list of numbers: ")).split()
 
 
 largest = numbers[0]
